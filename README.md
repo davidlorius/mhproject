@@ -1,6 +1,6 @@
 Mental Health Prototype 
 
-Prototype goal => Helkp to overcome the stigma of mental health. We will provide a list of therapist to our community in order that the people who need help could find some resources. We will help to address this systemic issue as a society.
+Prototype goal => Help to overcome the stigma of mental health. We will provide a list of therapist to our community in order that the people who need help could find some resources. We will help to address this systemic issue as a society.
 
 
 We will assume that everyone is running either mac or linux ubuntu. Windows users will run linux ubuntu under vagrant as for the class.
