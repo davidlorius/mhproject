@@ -67,7 +67,7 @@ brew install yarn
 Each of these commands should complete without error. If not, stop! and post to the slack channel.
 
 Getting started with the git repository
-In your browser, go to https://github.com/adrianagithub/mhproject Then fork that repository into your own github workspace. Then clone your not-alone workspace to your laptop, in an appropriate directory. 
+In your browser, go to https://github.com/adrianagithub/mhproject Then fork that repository into your own github workspace. Then clone your mhproject  workspace to your laptop, in an appropriate directory. 
 
 git remote add upstream https://github.com/adrianagithub/mhproject
 
