@@ -151,5 +151,5 @@ adding -b 0.0.0.0 if you are running in vagrant. Then see if you can get to the 
 
 If any of this fails, post the problem adi_111@icloud.com
 
-Go to the browser and type http://localhost:3000/. Make a new account (sign up) and a confirmation message will be sent to your email. Click the confirmation link and login.
+Go to the browser and type http://localhost:3000/. Make a new account (sign up) and a confirmation message will appeared on the screen. Click in the Navigation bar options and continue.
 
