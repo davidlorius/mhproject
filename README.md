@@ -133,9 +133,12 @@ And these are the prerequisites to install bootstraps
 <img width="190" alt="Screen Shot 2022-10-23 at 9 56 58 PM" src="https://user-images.githubusercontent.com/56941883/197451361-3bd9fb45-cbd8-4e20-a469-2d75113499e3.png">
 
 
-Each of these commands should complete without failures, including Rspec. Then run
+Each of these commands should complete without failures, including Rspec. You will see tests passing when you run the rspec command.
 
-bin/rails s
+<img width="1235" alt="Screen Shot 2022-10-23 at 10 03 45 PM" src="https://user-images.githubusercontent.com/56941883/197451991-4c9494b9-7672-4a6c-a739-41bc621d3c10.png">
+
+
+Then run bin/rails s
 
 adding -b 0.0.0.0 if you are running in vagrant. Then see if you can get to the server at localhost:3000.
 
