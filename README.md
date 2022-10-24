@@ -29,15 +29,21 @@ This project was developed with
 Rails 6.1.7
 Ruby 2.6.5
 Gems:
-gem 'sqlite3'
-gem 'sass-rails', '>= 6'
-gem 'webpacker', '~> 5.0'
-gem 'turbolinks', '~> 5'
-gem 'jbuilder', '~> 2.7'
-gem 'devise'
-gem "font-awesome-rails"
-gem 'bootstrap', '~>5.0'
-gem 'letter-opener'
+- gem 'sqlite3'
+- gem 'sass-rails', '>= 6'
+- gem 'webpacker', '~> 5.0'
+- gem 'turbolinks', '~> 5'
+- gem 'jbuilder', '~> 2.7'
+- gem 'devise'
+- gem "font-awesome-rails"
+- gem 'bootstrap', '~>5.0'
+- gem 'letter-opener'
+- gem 'rspec-rails'
+- gem 'factory_bot_rails'
+- gem 'faker'
+- gem 'rails-controller-testing'
+
+
 
 Installing and setting up the app
 Clone this repository.
