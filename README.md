@@ -119,6 +119,9 @@ Installing and setting up the app
 - rails db:migrate RAILS_ENV=test
 - Install the gems. Run this command in the terminal => bundle install
 - Install font-aswesome https://blog.corsego.com/rails-6-install-fontawesome-with-webpacker
+
+<img width="681" alt="Screen Shot 2022-10-23 at 10 10 45 PM" src="https://user-images.githubusercontent.com/56941883/197452631-332ff09c-2829-40bc-ac8a-ceef74a14105.png">
+
 - Install bootstraps 5 => https://www.bootrails.com/blog/rails-bootstrap-tutorial/
 - Setup letter opener https://github.com/ryanb/letter_opener You need to add the settings in this path to config letter opener.    config/environments/development.rb
 
