@@ -2,6 +2,10 @@ Mental Health Prototype
 
 Prototype goal => Help to overcome the stigma of mental health. Stigma can lead to discrimination. Discrimination may be obvious and direct, such as someone making a negative remark about your mental illness or your treatment. We will provide a list of therapist to our community in order that the people who need help could find some resources. We will help to address this systemic issue as a society.
 
+<img width="1161" alt="Screen Shot 2022-10-23 at 11 27 12 PM" src="https://user-images.githubusercontent.com/56941883/197461341-42967cd8-80e0-4fa3-be3d-6feba8df10b6.png"><img width="1044" alt="Screen Shot 2022-10-23 at 11 27 36 PM" src="https://user-images.githubusercontent.com/56941883/197461393-e9f30a33-bb29-466f-9ded-bc16c61e2f27.png">
+
+
+
 
 Getting Started with Mental Health Prototype Project
 
