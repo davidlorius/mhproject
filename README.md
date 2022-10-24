@@ -64,7 +64,7 @@ brew doctor
 brew services start postgresql
 brew install yarn
 
-Each of these commands should complete without error. If not, stop! and post to the slack channel.
+Each of these commands should complete without error. If not, you can contact me adi_111@icloud.com.
 
 Getting started with the git repository
 In your browser, go to https://github.com/adrianagithub/mhproject Then fork that repository into your own github workspace. Then clone your mhproject  workspace to your laptop, in an appropriate directory. 
